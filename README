@@ -1,0 +1,1 @@
+Here is the result tar file created with buildroot. There is not Apache Felix in the tar file, but this is the base for having Felix in it (there is the libraries that need Apache Celix in it). This tar file is usefull for this github repository : https://github.com/florian-gauvin/Small-Dockerfile-Felix
